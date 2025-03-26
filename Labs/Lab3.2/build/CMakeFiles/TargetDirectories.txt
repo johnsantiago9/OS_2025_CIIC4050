@@ -1,0 +1,3 @@
+/Users/johnsantiago/OS_2025_CIIC4050/Labs/Lab3.2/build/CMakeFiles/Lab3.2.dir
+/Users/johnsantiago/OS_2025_CIIC4050/Labs/Lab3.2/build/CMakeFiles/edit_cache.dir
+/Users/johnsantiago/OS_2025_CIIC4050/Labs/Lab3.2/build/CMakeFiles/rebuild_cache.dir

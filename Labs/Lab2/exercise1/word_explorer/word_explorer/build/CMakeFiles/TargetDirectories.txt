@@ -1,0 +1,3 @@
+/Users/johnsantiago/OS_2025_CIIC4050/Lab1/Lab2/exercise1/word_explorer/word_explorer/build/CMakeFiles/word_explorer.dir
+/Users/johnsantiago/OS_2025_CIIC4050/Lab1/Lab2/exercise1/word_explorer/word_explorer/build/CMakeFiles/edit_cache.dir
+/Users/johnsantiago/OS_2025_CIIC4050/Lab1/Lab2/exercise1/word_explorer/word_explorer/build/CMakeFiles/rebuild_cache.dir

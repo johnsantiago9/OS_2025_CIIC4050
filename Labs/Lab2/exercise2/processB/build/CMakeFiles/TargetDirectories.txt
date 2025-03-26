@@ -1,0 +1,3 @@
+/Users/johnsantiago/OS_2025_CIIC4050/Lab1/Lab2/exercise2/processB/build/CMakeFiles/processB.dir
+/Users/johnsantiago/OS_2025_CIIC4050/Lab1/Lab2/exercise2/processB/build/CMakeFiles/edit_cache.dir
+/Users/johnsantiago/OS_2025_CIIC4050/Lab1/Lab2/exercise2/processB/build/CMakeFiles/rebuild_cache.dir
