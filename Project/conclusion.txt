@@ -1,0 +1,22 @@
+Which method maintained a more accurate 50 ms interval?
+
+The posix method maintained a closer number to 50 ms compared to the thread method.
+
+Which method conaumed fewer system resources?
+
+The method with the posix timer consumed fewer resources, 
+when using the command top I could see the usages of the process
+and with the posix timer it stayed with low cpu consumed in average
+vs the thread method that was constantly using cpu
+
+Which one would you use in a real0time system and why?
+
+I would use posix timer, not only the reads are more accurate
+the process consumes less resources.
+
+
+Conclusion
+From the tests conducted, the POSIX timer method consistently stayed closer to the 50 ms target interval 
+than the thread approach. In addition, its CPU usage remained lower overall—verified using the command `top`—
+the thread-based method showed higher and more constant CPU consumption. Given these results, I would choose the POSIX timer for a real-time system.
+Not only does it achieve more precise timing, but it also consumes fewer resources.
